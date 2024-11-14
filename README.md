@@ -1,0 +1,1 @@
+Repositório criado para disponibilizar dados obtidos por Vinicius Gasparini como parte do Trabalho de Conclusão de Curso para obtenção do grau de Bacharel em Ciência da Computação pela Universidade do Estado de Santa Catarina.
